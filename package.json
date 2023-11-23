@@ -1,12 +1,12 @@
 {
-  "name": "microservice-nodejs-template",
-  "description": "This is template repo for creating a node.js microservice.",
-  "version": "1.0.5",
+  "name": "poker-microservice",
+  "description": "This is poker game microservice.",
+  "version": "1.0.0",
   "author": "badboyku",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/badboyku/microservice-nodejs-template.git"
+    "url": "git+https://github.com/badboyku/poker-microservice.git"
   },
   "main": "src/index.ts",
   "engines": {
